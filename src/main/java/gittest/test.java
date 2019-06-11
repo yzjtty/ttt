@@ -1,5 +1,7 @@
 package gittest;
 
 public class test {
-	private int id;
+	public static void main(String[] args) {
+		System.out.println("right...");
+	}
 }
